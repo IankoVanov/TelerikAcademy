@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. AllNum1toN", "AllNum1toN\1. AllNum1toN.csproj", "{97A5081E-EC93-4A71-8BE8-70A8A739EDF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. PrintNotDivisible", "PrintNotDivisible\2. PrintNotDivisible.csproj", "{22347B58-2C37-441D-B762-0D35C90A1416}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. MinMaxNum", "MinMaxNum\3. MinMaxNum.csproj", "{7CA0EA65-2227-4223-8550-54ECE8CA9FCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97A5081E-EC93-4A71-8BE8-70A8A739EDF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A5081E-EC93-4A71-8BE8-70A8A739EDF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A5081E-EC93-4A71-8BE8-70A8A739EDF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A5081E-EC93-4A71-8BE8-70A8A739EDF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22347B58-2C37-441D-B762-0D35C90A1416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22347B58-2C37-441D-B762-0D35C90A1416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22347B58-2C37-441D-B762-0D35C90A1416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22347B58-2C37-441D-B762-0D35C90A1416}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CA0EA65-2227-4223-8550-54ECE8CA9FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA0EA65-2227-4223-8550-54ECE8CA9FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA0EA65-2227-4223-8550-54ECE8CA9FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA0EA65-2227-4223-8550-54ECE8CA9FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
